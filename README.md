@@ -20,8 +20,6 @@ Need help building your community or custom bot? You can [contact](https://disco
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarzinXenon&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 #
-![Snake](https://github.com/FarzinXenon/FarzinXenon/blob/output/github-contribution-grid-snake-dark.svg)
-#
-[![FarzinXenon Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.com/invite/Z8qbXEAsw3)
-[![XenonShop Discord](https://badgen.net/discord/members/nKrBshQvcK)](https://discord.gg/63PQqf7MpA)<br>
+![FarzinXenon Discord](https://discord.com/invite/Z8qbXEAsw3)
+![XenonShop Discord](https://discord.gg/63PQqf7MpA)<br>
 <img src="https://komarev.com/ghpvc/?username=FarzinXenon&color=brightgreen" alt="watching_count" />
